@@ -8,7 +8,7 @@
           <mxGeometry x="140" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gqFCZRHs8hvNs9leIOWQ-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" parent="1" vertex="1">
-          <mxGeometry x="270" y="60" width="80" height="20" as="geometry" />
+          <mxGeometry x="260" y="60" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gqFCZRHs8hvNs9leIOWQ-3" value="&lt;h3&gt;Client Application&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="350" y="40" width="120" height="60" as="geometry" />
@@ -21,6 +21,18 @@
         </mxCell>
         <mxCell id="WSGV7BfRgn2utAXJgyUl-3" value="&lt;h3&gt;Payment Gateway API&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="550" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WSGV7BfRgn2utAXJgyUl-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="120" width="35" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WSGV7BfRgn2utAXJgyUl-5" value="&lt;b&gt;(Request Payment)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="148" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WSGV7BfRgn2utAXJgyUl-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="120" width="35" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WSGV7BfRgn2utAXJgyUl-7" value="&lt;b&gt;(API Call)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="148" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
