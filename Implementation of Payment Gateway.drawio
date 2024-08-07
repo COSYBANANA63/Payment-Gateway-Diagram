@@ -202,14 +202,14 @@
         <mxCell id="WSGV7BfRgn2utAXJgyUl-215" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
           <mxGeometry x="185" y="1120" width="35" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WSGV7BfRgn2utAXJgyUl-216" value="&lt;b&gt;Redirect to Payment&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1148" width="140" height="30" as="geometry" />
+        <mxCell id="WSGV7BfRgn2utAXJgyUl-216" value="&lt;b&gt;(Show Result)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="1148" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WSGV7BfRgn2utAXJgyUl-217" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
           <mxGeometry x="395" y="1120" width="35" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WSGV7BfRgn2utAXJgyUl-218" value="&lt;b&gt;(Send Payment Request)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1148" width="160" height="30" as="geometry" />
+        <mxCell id="WSGV7BfRgn2utAXJgyUl-218" value="&lt;b&gt;(Finalize Payment)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="1148" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WSGV7BfRgn2utAXJgyUl-219" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
           <mxGeometry x="595" y="1120" width="35" height="120" as="geometry" />
@@ -249,6 +249,9 @@
         </mxCell>
         <mxCell id="WSGV7BfRgn2utAXJgyUl-231" value="&lt;b&gt;(Send Status)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="635" y="948" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WSGV7BfRgn2utAXJgyUl-232" value="&lt;b&gt;(Settle Payment)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1148" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
