@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="Page-1" id="52b1lF4dUszXcEWWKgWd">
-    <mxGraphModel dx="228" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="910" dy="1913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -214,13 +214,13 @@
         <mxCell id="WSGV7BfRgn2utAXJgyUl-219" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
           <mxGeometry x="595" y="1120" width="35" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WSGV7BfRgn2utAXJgyUl-220" value="&lt;h3&gt;User Payment Gateway Page&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="WSGV7BfRgn2utAXJgyUl-220" value="&lt;h3&gt;User (Confirmation)&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="145" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WSGV7BfRgn2utAXJgyUl-221" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" vertex="1" parent="1">
           <mxGeometry x="265" y="1260" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WSGV7BfRgn2utAXJgyUl-222" value="&lt;h3&gt;API Processing Engine&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="WSGV7BfRgn2utAXJgyUl-222" value="&lt;h3&gt;API Provider(Receipt)&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="355" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WSGV7BfRgn2utAXJgyUl-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=22;exitDy=6.5;exitPerimeter=0;entryX=0;entryY=0;entryDx=22;entryDy=13.5;entryPerimeter=0;" edge="1" source="WSGV7BfRgn2utAXJgyUl-221" target="WSGV7BfRgn2utAXJgyUl-221" parent="1">
@@ -229,23 +229,8 @@
         <mxCell id="WSGV7BfRgn2utAXJgyUl-224" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" vertex="1" parent="1">
           <mxGeometry x="475" y="1260" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WSGV7BfRgn2utAXJgyUl-225" value="&lt;h3&gt;Bank Server&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="WSGV7BfRgn2utAXJgyUl-225" value="&lt;h3&gt;Bank (Settlement)&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="555" y="1240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WSGV7BfRgn2utAXJgyUl-226" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="185" y="1320" width="35" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="WSGV7BfRgn2utAXJgyUl-227" value="&lt;b&gt;(Enter Card Details)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1348" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="WSGV7BfRgn2utAXJgyUl-228" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="395" y="1320" width="35" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="WSGV7BfRgn2utAXJgyUl-229" value="&lt;b&gt;(Authorize/Authenticate)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1348" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="WSGV7BfRgn2utAXJgyUl-230" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="595" y="1320" width="35" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WSGV7BfRgn2utAXJgyUl-231" value="&lt;b&gt;(Send Status)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="635" y="948" width="100" height="30" as="geometry" />
