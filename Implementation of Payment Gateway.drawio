@@ -181,13 +181,13 @@
         <mxCell id="WSGV7BfRgn2utAXJgyUl-208" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
           <mxGeometry x="595" y="920" width="35" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WSGV7BfRgn2utAXJgyUl-209" value="&lt;b&gt;Client Browser&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="WSGV7BfRgn2utAXJgyUl-209" value="&lt;b&gt;Client Application&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="145" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WSGV7BfRgn2utAXJgyUl-210" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" vertex="1" parent="1">
           <mxGeometry x="265" y="1060" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WSGV7BfRgn2utAXJgyUl-211" value="&lt;h3&gt;API Integration Layer&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="WSGV7BfRgn2utAXJgyUl-211" value="&lt;h3&gt;Payment Gateway API&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="355" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WSGV7BfRgn2utAXJgyUl-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=22;exitDy=6.5;exitPerimeter=0;entryX=0;entryY=0;entryDx=22;entryDy=13.5;entryPerimeter=0;" edge="1" source="WSGV7BfRgn2utAXJgyUl-210" target="WSGV7BfRgn2utAXJgyUl-210" parent="1">
