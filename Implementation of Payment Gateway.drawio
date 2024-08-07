@@ -4,14 +4,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gqFCZRHs8hvNs9leIOWQ-1" value="&lt;h3&gt;CLIENT (User)&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="gqFCZRHs8hvNs9leIOWQ-1" value="&lt;h3&gt;Client (User)&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="140" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gqFCZRHs8hvNs9leIOWQ-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" vertex="1" parent="1">
+        <mxCell id="gqFCZRHs8hvNs9leIOWQ-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" parent="1" vertex="1">
           <mxGeometry x="270" y="60" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gqFCZRHs8hvNs9leIOWQ-3" value="&lt;h3&gt;CLIENT (User)&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="gqFCZRHs8hvNs9leIOWQ-3" value="&lt;h3&gt;Client Application&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="350" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WSGV7BfRgn2utAXJgyUl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=22;exitDy=6.5;exitPerimeter=0;entryX=0;entryY=0;entryDx=22;entryDy=13.5;entryPerimeter=0;" edge="1" parent="1" source="gqFCZRHs8hvNs9leIOWQ-2" target="gqFCZRHs8hvNs9leIOWQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WSGV7BfRgn2utAXJgyUl-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" vertex="1" parent="1">
+          <mxGeometry x="470" y="60" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WSGV7BfRgn2utAXJgyUl-3" value="&lt;h3&gt;Paymenta Gateway&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="550" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
