@@ -10,7 +10,6 @@ This document provides a detailed explanation of the implementation of a payment
 - [API Provider Perspective](#api-provider-perspective)
 - [Financial Institution Perspective](#financial-institution-perspective)
 - [Sequence Diagram](#sequence-diagram)
-- [Component Diagram](#component-diagram)
 
 ## Client Perspective
 
